@@ -1,2 +1,4 @@
 # hello_world
-First GitHub repository
+First GitHub repository.
+
+A first attempt at branching.
